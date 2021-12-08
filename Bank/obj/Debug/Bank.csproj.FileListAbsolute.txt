@@ -1,0 +1,11 @@
+F:\Kuliah\Semester 3\Pemrograman Lanjut\Bank\Bank\bin\Debug\Bank.exe.config
+F:\Kuliah\Semester 3\Pemrograman Lanjut\Bank\Bank\bin\Debug\Bank.exe
+F:\Kuliah\Semester 3\Pemrograman Lanjut\Bank\Bank\bin\Debug\Bank.pdb
+F:\Kuliah\Semester 3\Pemrograman Lanjut\Bank\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+F:\Kuliah\Semester 3\Pemrograman Lanjut\Bank\Bank\obj\Debug\Bank.FrmNasabah.resources
+F:\Kuliah\Semester 3\Pemrograman Lanjut\Bank\Bank\obj\Debug\Bank.FrmEntriPemasukanPengeluaran.resources
+F:\Kuliah\Semester 3\Pemrograman Lanjut\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+F:\Kuliah\Semester 3\Pemrograman Lanjut\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+F:\Kuliah\Semester 3\Pemrograman Lanjut\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+F:\Kuliah\Semester 3\Pemrograman Lanjut\Bank\Bank\obj\Debug\Bank.exe
+F:\Kuliah\Semester 3\Pemrograman Lanjut\Bank\Bank\obj\Debug\Bank.pdb
